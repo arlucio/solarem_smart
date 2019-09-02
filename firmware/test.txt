@@ -1,4 +1,0 @@
-This is a test file. 
-Hope it works right.
-This is another line in this test file.
-This is the 4th line of the test file.
